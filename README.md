@@ -35,3 +35,8 @@ Logistic Regression
 
 ## 🎯 Conclusion
 The model successfully predicts credit risk based on financial attributes.
+
+## 💻 Streamlit App
+This project also includes a Streamlit web app for real-time credit risk prediction.
+Run using:
+streamlit run app.py
