@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+credit_app.db
+credit_app.db-journal
+data_test/
+data_test_plain.txt
+sqlite_test.tmp

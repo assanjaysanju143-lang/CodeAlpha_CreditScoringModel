@@ -1,2 +1,4 @@
-30,0,0,0,0,0,3000,12,0,1,0.9939318520447437
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Result,Confidence
+30,0,0,0,0,0,3000,12,0,1,0.9939318520447435
 30,1,2,2,0,1,4500,8,2,1,0.883406310069793
+30,female,1,free,moderate,moderate,3000,12,business,Safe Customer,0.9925
